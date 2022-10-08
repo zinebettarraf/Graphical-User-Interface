@@ -1,1 +1,0 @@
-/opt/rh/devtoolset-9/root/usr/bin/cc -g   CMakeFiles/Version_Finale.dir/main.c.o  -o Version_Finale 
