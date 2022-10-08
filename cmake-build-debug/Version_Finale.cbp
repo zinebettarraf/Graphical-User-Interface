@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="Version_Finale"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/user/4/boukhrin/Documents/Version_Finale/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/opt/rh/devtoolset-9/root/usr/bin/gmake -j4 -f &quot;/user/4/boukhrin/Documents/Version_Finale/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/opt/rh/devtoolset-9/root/usr/bin/gmake -j4 -f &quot;/user/4/boukhrin/Documents/Version_Finale/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/opt/rh/devtoolset-9/root/usr/bin/gmake -j4 -f &quot;/user/4/boukhrin/Documents/Version_Finale/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/opt/rh/devtoolset-9/root/usr/bin/gmake -j4 -f &quot;/user/4/boukhrin/Documents/Version_Finale/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/user/4/boukhrin/Documents/Version_Finale/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/opt/rh/devtoolset-9/root/usr/bin/gmake -j4 -f &quot;/user/4/boukhrin/Documents/Version_Finale/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/opt/rh/devtoolset-9/root/usr/bin/gmake -j4 -f &quot;/user/4/boukhrin/Documents/Version_Finale/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/opt/rh/devtoolset-9/root/usr/bin/gmake -j4 -f &quot;/user/4/boukhrin/Documents/Version_Finale/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/opt/rh/devtoolset-9/root/usr/bin/gmake -j4 -f &quot;/user/4/boukhrin/Documents/Version_Finale/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Version_Finale">
+				<Option output="/user/4/boukhrin/Documents/Version_Finale/cmake-build-debug/Version_Finale" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/user/4/boukhrin/Documents/Version_Finale/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/opt/rh/devtoolset-9/root/usr/lib/gcc/x86_64-redhat-linux/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/opt/rh/devtoolset-9/root/usr/include"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/opt/rh/devtoolset-9/root/usr/bin/gmake -j4 -f &quot;/user/4/boukhrin/Documents/Version_Finale/cmake-build-debug/Makefile&quot;  VERBOSE=1 Version_Finale"/>
+					<CompileFile command="/opt/rh/devtoolset-9/root/usr/bin/gmake -j4 -f &quot;/user/4/boukhrin/Documents/Version_Finale/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/opt/rh/devtoolset-9/root/usr/bin/gmake -j4 -f &quot;/user/4/boukhrin/Documents/Version_Finale/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/opt/rh/devtoolset-9/root/usr/bin/gmake -j4 -f &quot;/user/4/boukhrin/Documents/Version_Finale/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Version_Finale/fast">
+				<Option output="/user/4/boukhrin/Documents/Version_Finale/cmake-build-debug/Version_Finale" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/user/4/boukhrin/Documents/Version_Finale/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/opt/rh/devtoolset-9/root/usr/lib/gcc/x86_64-redhat-linux/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/opt/rh/devtoolset-9/root/usr/include"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/opt/rh/devtoolset-9/root/usr/bin/gmake -j4 -f &quot;/user/4/boukhrin/Documents/Version_Finale/cmake-build-debug/Makefile&quot;  VERBOSE=1 Version_Finale/fast"/>
+					<CompileFile command="/opt/rh/devtoolset-9/root/usr/bin/gmake -j4 -f &quot;/user/4/boukhrin/Documents/Version_Finale/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/opt/rh/devtoolset-9/root/usr/bin/gmake -j4 -f &quot;/user/4/boukhrin/Documents/Version_Finale/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/opt/rh/devtoolset-9/root/usr/bin/gmake -j4 -f &quot;/user/4/boukhrin/Documents/Version_Finale/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/user/4/boukhrin/Documents/Version_Finale/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/opt/rh/devtoolset-9/root/usr/bin/gmake -j4 -f &quot;/user/4/boukhrin/Documents/Version_Finale/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/opt/rh/devtoolset-9/root/usr/bin/gmake -j4 -f &quot;/user/4/boukhrin/Documents/Version_Finale/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/opt/rh/devtoolset-9/root/usr/bin/gmake -j4 -f &quot;/user/4/boukhrin/Documents/Version_Finale/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/opt/rh/devtoolset-9/root/usr/bin/gmake -j4 -f &quot;/user/4/boukhrin/Documents/Version_Finale/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/user/4/boukhrin/Documents/Version_Finale/main.c">
+			<Option target="Version_Finale"/>
+		</Unit>
+		<Unit filename="/user/4/boukhrin/Documents/Version_Finale/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

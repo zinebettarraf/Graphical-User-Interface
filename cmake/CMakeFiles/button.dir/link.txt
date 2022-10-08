@@ -1,0 +1,1 @@
+/opt/rh/devtoolset-9/root/usr/bin/cc   -rdynamic CMakeFiles/button.dir/tests/button.c.o  -o button  libei.a ../_x11/libeibase64.a -L/user/4/boukhrin/Documents/Version_Finale/_x11 -lfreeimage -lSDL2 -lSDL2_ttf -lm 

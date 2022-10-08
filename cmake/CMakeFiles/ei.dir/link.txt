@@ -1,0 +1,2 @@
+/opt/rh/devtoolset-9/root/usr/bin/ar qc libei.a  CMakeFiles/ei.dir/src/ei_draw.c.o CMakeFiles/ei.dir/src/ei_draw_suite.c.o CMakeFiles/ei.dir/src/ei_drawpolygon.c.o
+/opt/rh/devtoolset-9/root/usr/bin/ranlib libei.a
